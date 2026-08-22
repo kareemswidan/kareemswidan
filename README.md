@@ -74,9 +74,13 @@ I design and build production-ready digital products — from the user experienc
 
 - 🚗 **[Velora Mobility](https://github.com/kareemswidan/velora-mobility-marketplace)** — multi-role marketplace for vehicle services, discovery, bookings, reviews, e-commerce, business onboarding, and platform administration.
 
-- 💍 **[Farahna Gaza](https://github.com/kareemswidan/farahna-gaza-fullstack-laravel)** — full-stack events marketplace connecting customers with halls, photographers, and wedding-service providers using Next.js, Laravel, and PostgreSQL.
-
 - 🛍️ **[Nexora](https://github.com/kareemswidan/nexora-laravel)** — bilingual Laravel marketplace with MySQL, checkout, order tracking, and private AI-powered product matching.
+
+- 🧠 **[Dozoo](https://github.com/kareemswidan/dozoo)** — Arabic-first full-stack AI product studio powered locally by Ollama.
+
+- 📄 **[LexiGuard AI](https://github.com/kareemswidan/lexiguard-ai-laravel)** — Laravel-based document analysis platform for AI-assisted review workflows.
+
+- ⚡ **[Kareem Swidan Electrical](https://github.com/kareemswidan/kareem-swidan-electrical)** — responsive electrical-products website with a searchable catalog, accessible interactions, SEO, and direct WhatsApp contact.
 
 [Explore my complete portfolio →](https://kareemswidan.github.io/)
 
