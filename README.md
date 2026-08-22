@@ -13,8 +13,6 @@ I design and build production-ready digital products — from the user experienc
 
 <br>
 
-<img align="right" width="230" src="assets/kareem-swidan.jpeg" alt="Kareem Swidan">
-
 ## About me
 
 - 🚀 I build full-stack marketplaces, booking platforms, and business websites.
@@ -23,8 +21,6 @@ I design and build production-ready digital products — from the user experienc
 - ☁️ I deploy modern applications on Cloudflare Workers and D1.
 - 🧪 I care about maintainable architecture, automated tests, CI, performance, accessibility, and SEO.
 - 🧠 I enjoy turning ambitious product ideas into complete, usable systems.
-
-<br clear="right">
 
 ---
 
