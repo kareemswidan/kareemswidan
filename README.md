@@ -64,11 +64,11 @@ I design and build production-ready digital products — from the user experienc
 
 - 🏨 **[SmartStay AI](https://github.com/kareemswidan/smartstay-ai-palestine)** — bilingual booking marketplace with customer, owner, and admin experiences, secure sessions, Cloudflare D1, and collision-safe reservations. [Live application](https://smartstay-palestine.kareemswidan11.workers.dev/)
 
-- 🚗 **[Velora Mobility](https://github.com/kareemswidan/velora-mobility-marketplace)** — multi-role marketplace for vehicle services, discovery, bookings, reviews, e-commerce, business onboarding, and platform administration.
+- 🚗 **[Velora Mobility](https://github.com/kareemswidan/velora-mobility-marketplace)** — multi-role marketplace for vehicle services, discovery, bookings, reviews, e-commerce, business onboarding, and platform administration. [Product case study](https://kareemswidan.github.io/case-studies/velora/)
 
-- 🛍️ **[Nexora](https://github.com/kareemswidan/nexora-laravel)** — bilingual Laravel marketplace with MySQL, checkout, order tracking, and private AI-powered product matching.
+- 🛍️ **[Nexora](https://github.com/kareemswidan/nexora-laravel)** — bilingual Laravel marketplace with MySQL, checkout, order tracking, and private AI-powered product matching. [Live demo](https://kareem-product-suite.kareemswidan11.workers.dev/nexora)
 
-- 🧠 **[Dozoo](https://github.com/kareemswidan/dozoo)** — Arabic-first full-stack AI product studio powered locally by Ollama.
+- 🧠 **[Dozoo](https://github.com/kareemswidan/dozoo)** — Arabic-first full-stack AI product studio powered locally by Ollama. [Product case study](https://kareemswidan.github.io/case-studies/dozo/)
 
 [Explore my complete portfolio →](https://kareemswidan.github.io/)
 
@@ -85,11 +85,6 @@ I design and build production-ready digital products — from the user experienc
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemswidan&layout=compact&hide_border=true&theme=github_dark&langs_count=8">
   <img height="165" alt="Kareem's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemswidan&layout=compact&hide_border=true&theme=default&langs_count=8">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kareemswidan&theme=github-dark-blue&hide_border=true">
-  <img alt="Kareem's GitHub streak" src="https://streak-stats.demolab.com?user=kareemswidan&theme=default&hide_border=true">
 </picture>
 
 </div>
