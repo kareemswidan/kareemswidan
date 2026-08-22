@@ -65,7 +65,7 @@ I design and build production-ready digital products — from the user experienc
 
 - 🏨 **[SmartStay AI](https://github.com/kareemswidan/smartstay-ai-palestine)** — bilingual booking marketplace with customer, owner, and admin experiences, secure sessions, Cloudflare D1, and collision-safe reservations. [Live application](https://smartstay-palestine.kareemswidan11.workers.dev/)
 
-- 🚗 **[Velora Mobility](https://github.com/kareemswidan/velora-mobility-marketplace)** — multi-role marketplace for vehicle services, discovery, bookings, reviews, e-commerce, business onboarding, and platform administration. [Product case study](https://kareemswidan.github.io/case-studies/velora/)
+- 🚗 **[Velora Mobility](https://github.com/kareemswidan/velora-mobility-marketplace)** — multi-role marketplace for vehicle services, discovery, bookings, reviews, e-commerce, business onboarding, and platform administration. [Live application](https://velora-mobility.kareemswidan11.workers.dev/) · [Product case study](https://kareemswidan.github.io/case-studies/velora/)
 
 - 🛍️ **[Nexora](https://github.com/kareemswidan/nexora-laravel)** — bilingual Laravel marketplace with MySQL, checkout, order tracking, and private AI-powered product matching. [Live demo](https://kareem-product-suite.kareemswidan11.workers.dev/nexora)
 
