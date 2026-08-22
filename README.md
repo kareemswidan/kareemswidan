@@ -70,48 +70,15 @@ I design and build production-ready digital products — from the user experienc
 
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🏨 **[SmartStay AI](https://github.com/kareemswidan/smartstay-ai-palestine)** — bilingual booking marketplace with customer, owner, and admin experiences, secure sessions, Cloudflare D1, and collision-safe reservations. [Live application](https://smartstay-palestine.kareemswidan11.workers.dev/)
 
-### [SmartStay AI](https://github.com/kareemswidan/smartstay-ai-palestine)
+- 🚗 **[Velora Mobility](https://github.com/kareemswidan/velora-mobility-marketplace)** — multi-role marketplace for vehicle services, discovery, bookings, reviews, e-commerce, business onboarding, and platform administration.
 
-A bilingual marketplace for hotels, villas, resorts, and local stays across Palestine. Includes customer, property-owner, and admin experiences; Cloudflare D1-backed APIs; secure sessions; booking collision protection; and a local AI recommendation engine.
+- 💍 **[Farahna Gaza](https://github.com/kareemswidan/farahna-gaza-fullstack-laravel)** — full-stack events marketplace connecting customers with halls, photographers, and wedding-service providers using Next.js, Laravel, and PostgreSQL.
 
-**Next.js · React · TypeScript · Cloudflare Workers · D1 · Drizzle · Tailwind CSS**
+- 🛍️ **[Nexora](https://github.com/kareemswidan/nexora-laravel)** — bilingual Laravel marketplace with MySQL, checkout, order tracking, and private AI-powered product matching.
 
-[Live application](https://smartstay-palestine.kareemswidan11.workers.dev/)
-
-</td>
-<td width="50%" valign="top">
-
-### [Velora Mobility](https://github.com/kareemswidan/velora-mobility-marketplace)
-
-A multi-role marketplace for gas stations, car washes, and vehicle service centers. Features global discovery, booking, reviews, an E‑Mart catalog, business onboarding, administration, audit logs, and English/Arabic navigation.
-
-**Next.js · React · TypeScript · Prisma · Cloudflare D1 · Tailwind CSS · Framer Motion**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Kareem Swidan Electrical](https://github.com/kareemswidan/kareem-swidan-electrical)
-
-A responsive electrical-products website for customers across Palestine, with a searchable catalog, product details, accessible interactions, direct WhatsApp contact, SEO, and original photography.
-
-**JavaScript · HTML5 · CSS3 · Responsive Design · Accessibility · SEO**
-
-</td>
-<td width="50%" valign="top">
-
-### Current focus
-
-Building complete products with strong UX, practical business workflows, secure data handling, and dependable cloud delivery — with special attention to platforms that serve Arabic-speaking users.
-
-</td>
-</tr>
-</table>
+[Explore my complete portfolio →](https://kareemswidan.github.io/)
 
 ---
 
