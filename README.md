@@ -8,6 +8,7 @@ I design and build production-ready digital products — from the user experienc
 
 [![Email](https://img.shields.io/badge/Email-kareemswidan11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemswidan11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kareemswidan-181717?style=for-the-badge&logo=github)](https://github.com/kareemswidan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kareem--swidan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-swidan/)
 
 </div>
 
