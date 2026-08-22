@@ -26,45 +26,37 @@ I design and build production-ready digital products — from the user experienc
 
 ## Tech stack
 
-### Core
+### Languages & frameworks
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,laravel,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, PHP, Laravel, Tailwind CSS, HTML and CSS" />
+</div>
 
-### UI & product experience
+### Data, cloud & delivery
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,postgres,mysql,prisma,git,github,githubactions,vscode&theme=dark" alt="Cloudflare, PostgreSQL, MySQL, Prisma, Git, GitHub, GitHub Actions and VS Code" />
+</div>
 
-### Backend, data & cloud
+<div align="center">
 
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
-![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=111)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=111)
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI-111111?style=flat-square&logo=ollama&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-### Tools & delivery
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-## What I build
+## Engineering focus
 
-- **End-to-end product engineering:** responsive interfaces, APIs, databases, authentication, authorization, and deployment.
-- **Marketplace systems:** discovery, listings, reservations, inventory, reviews, favorites, and multi-role dashboards.
-- **Business operations:** onboarding, moderation, audit logs, CSV exports, notifications, and administration tools.
-- **Localized experiences:** English/Arabic interfaces, persistent language preferences, and full RTL support.
-- **Reliable delivery:** validation, automated tests, CI pipelines, security headers, and production documentation.
+- 🔷 **End-to-end product delivery** — product UX, responsive interfaces, APIs, relational databases, deployment, and operational tooling.
+- 🔷 **Authentication & authorization** — secure sessions, JWT, password hashing, role-based access, moderation, and audit trails.
+- 🔷 **Marketplace & booking systems** — discovery, availability, collision-safe reservations, inventory, checkout, reviews, and multi-role dashboards.
+- 🔷 **Data & API architecture** — Cloudflare D1, PostgreSQL, MySQL, Prisma, Drizzle ORM, validation, and secure server-side workflows.
+- 🔷 **Bilingual product experiences** — English/Arabic localization, persistent preferences, accessible interfaces, and complete RTL/LTR support.
+- 🔷 **Production delivery** — Cloudflare Workers, automated tests, GitHub Actions, performance, accessibility, SEO, and engineering documentation.
 
 ---
 
