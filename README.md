@@ -2,7 +2,7 @@
 
 # Hi, I'm Kareem Swidan 👋
 
-### Full-Stack Product Developer from Palestine 🇵🇸
+### Full-Stack Product Developer from Palestine
 
 I design and build production-ready digital products — from the user experience and data model to secure APIs, deployment, and operations.
 
