@@ -70,10 +70,6 @@ I design and build production-ready digital products — from the user experienc
 
 - 🧠 **[Dozoo](https://github.com/kareemswidan/dozoo)** — Arabic-first full-stack AI product studio powered locally by Ollama.
 
-- 📄 **[LexiGuard AI](https://github.com/kareemswidan/lexiguard-ai-laravel)** — Laravel-based document analysis platform for AI-assisted review workflows.
-
-- ⚡ **[Kareem Swidan Electrical](https://github.com/kareemswidan/kareem-swidan-electrical)** — responsive electrical-products website with a searchable catalog, accessible interactions, SEO, and direct WhatsApp contact.
-
 [Explore my complete portfolio →](https://kareemswidan.github.io/)
 
 ---
