@@ -6,8 +6,8 @@
 
 I design and build production-ready digital products — from the user experience and data model to secure APIs, deployment, and operations.
 
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-Explore_my_work-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://kareemswidan.github.io/)
-[![Contact Me](https://img.shields.io/badge/Contact_Me-Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemswidan11@gmail.com)
+[![View Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kareemswidan.github.io/)
+[![Contact Me](https://img.shields.io/badge/CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemswidan11@gmail.com)
 
 </div>
 
@@ -90,11 +90,12 @@ I design and build production-ready digital products — from the user experienc
 
 Professional profiles, selected work, and direct contact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-swidan/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareemswidan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_my_work-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://kareemswidan.github.io/)
-[![Email](https://img.shields.io/badge/Email-Send_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemswidan11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-swidan/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareemswidan)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kareemswidan.github.io/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemswidan11@gmail.com)
 
 <sub>Open to full-stack product roles, freelance projects, and thoughtful collaborations.</sub>
 
 </div>
+
