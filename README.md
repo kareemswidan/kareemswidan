@@ -75,20 +75,13 @@ I design and build production-ready digital products — from the user experienc
 
 ---
 
-## GitHub activity
+## Professional proof
 
-<div align="center">
+- 🎓 **Academic recommendation** — two signed recommendations from Al-Aqsa University, including one from the Head of Networks and Mobile Departments.
+- 🏢 **Industry experience** — 180 hours of practical training with the Electricity Company development team.
+- ✅ **Reproducible engineering evidence** — public CI, automated tests, architecture documentation, product screenshots, and working deployments.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kareemswidan&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
-  <img height="165" alt="Kareem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kareemswidan&show_icons=true&hide_border=true&theme=default&rank_icon=github">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemswidan&layout=compact&hide_border=true&theme=github_dark&langs_count=8">
-  <img height="165" alt="Kareem's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemswidan&layout=compact&hide_border=true&theme=default&langs_count=8">
-</picture>
-
-</div>
+[Review the professional evidence and recommendation →](https://kareemswidan.github.io/#proof)
 
 ---
 
